@@ -1,9 +1,10 @@
 import ScrollTriggerTest1 from "./components/ScrollTriggerTest1";
+import ScrollTriggerTest2 from "./components/ScrollTriggerTest2";
 
 function App() {
     return (
         <>
-            <ScrollTriggerTest1 />;
+            <ScrollTriggerTest2 />;
         </>
     );
 }
